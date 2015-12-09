@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/timothymartinez/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-cognito/2.2.9/fab4c593e36d5e615a1ca56da95116be4dc50bd1/aws-android-sdk-cognito-2.2.9.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fab4c593e36d5e615a1ca56da95116be4dc50bd1">
+        <dex dex="/Users/timothymartinez/AndroidStudioProjects/SafetyApplicationTest/app/build/intermediates/pre-dexed/debug/aws-android-sdk-cognito-2.2.9-46d4d41bdf9fc6dd762385cee13cfea83b18437f.jar" />
+    </item>
+    <item
+        jar="/Users/timothymartinez/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-core/2.2.9/fbcd6eb073e38dfdcaf6a8a68e2533ad72f769a/aws-android-sdk-core-2.2.9.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0fbcd6eb073e38dfdcaf6a8a68e2533ad72f769a">
+        <dex dex="/Users/timothymartinez/AndroidStudioProjects/SafetyApplicationTest/app/build/intermediates/pre-dexed/debug/aws-android-sdk-core-2.2.9-79c7b0be202cbba2a1c65124748a1fe0d1e76c3b.jar" />
+    </item>
+
+</items>
